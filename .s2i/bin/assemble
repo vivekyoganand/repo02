@@ -48,3 +48,4 @@ echo "This is again customization ---- cprakash " > ./info.html
 DATE=$(date "+%F")
 echo "---> Creating info file"
 echo "$DATE text given in question" >> ./info.html
+#
