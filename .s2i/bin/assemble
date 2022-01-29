@@ -42,7 +42,7 @@ fi
 # Fix source directory permissions
 fix-permissions ./
 
-echo "This is again customization ---- cprakash " > ./info.html
+#echo "This is again customization ---- cprakash " > ./info.html
 
 #cp  -Rf /tmp/src/*.html  ./		
 DATE=$(date "+%F")
